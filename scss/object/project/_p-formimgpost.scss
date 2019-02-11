@@ -1,0 +1,33 @@
+//.p-FormFile{
+//  background: #4e555b;
+//  position: relative;
+//  text-align: center;
+//  height: 140px;
+//  @include media-breakpoint-down(xs) {
+//    background: none;
+//  }
+//&-input-file {
+//  opacity: 0;
+//  height: 140px;
+//
+//
+//  @include media-breakpoint-down(xs) {
+//    opacity: 1;
+//  }
+//}
+//  &-prev-img{
+//    position: absolute;
+//    top: 0;
+//    left: 0;
+//    width: 100%;
+//    height: 100%;
+//
+//
+//
+//
+//  }
+//}
+.p-FormFile img{
+  width: 200px;
+  height: 300px;
+}

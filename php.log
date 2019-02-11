@@ -1,0 +1,282 @@
+[05-Jan-2019 01:14:04 Asia/Tokyo] PHP Warning:  ini_set() expects exactly 2 parameters, 1 given in /Applications/MAMP/htdocs/newdata/function.php on line 44
+[05-Jan-2019 01:14:04 Asia/Tokyo] PHP Warning:  session_start(): open(var/tmp//sess_kuppnmdn8qu3ftfao2hpmrcvui, O_RDWR) failed: No such file or directory (2) in /Applications/MAMP/htdocs/newdata/function.php on line 46
+[05-Jan-2019 01:14:04 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var/tmp/) in /Applications/MAMP/htdocs/newdata/function.php on line 46
+[05-Jan-2019 01:14:04 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /Applications/MAMP/htdocs/newdata/function.php on line 48
+[05-Jan-2019 01:14:04 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 01:14:04 Asia/Tokyo] デバック:ログインページです
+[05-Jan-2019 01:14:04 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 01:14:04 Asia/Tokyo] デバック:>>>>>>>>>>>>>>>>>>>>>>>>画面表示開始
+[05-Jan-2019 01:14:04 Asia/Tokyo] デバック:セッションID:
+[05-Jan-2019 01:14:04 Asia/Tokyo] デバック:セッション変数の中身:Array
+(
+)
+
+[05-Jan-2019 01:14:04 Asia/Tokyo] デバック:現在日時タイムスタンプ1546618444
+[05-Jan-2019 01:14:04 Asia/Tokyo] デバック:画面遷移終了>>>>>>>>>>>>>>>>>>>>>
+[05-Jan-2019 01:14:04 Asia/Tokyo] PHP Warning:  Use of undefined constant common - assumed 'common' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/newdata/login.php on line 142
+[05-Jan-2019 01:14:04 Asia/Tokyo] PHP Warning:  Use of undefined constant common - assumed 'common' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/newdata/login.php on line 143
+[05-Jan-2019 01:14:10 Asia/Tokyo] PHP Warning:  ini_set() expects exactly 2 parameters, 1 given in /Applications/MAMP/htdocs/newdata/function.php on line 44
+[05-Jan-2019 01:14:10 Asia/Tokyo] PHP Warning:  session_start(): open(var/tmp//sess_kuppnmdn8qu3ftfao2hpmrcvui, O_RDWR) failed: No such file or directory (2) in /Applications/MAMP/htdocs/newdata/function.php on line 46
+[05-Jan-2019 01:14:10 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var/tmp/) in /Applications/MAMP/htdocs/newdata/function.php on line 46
+[05-Jan-2019 01:14:10 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /Applications/MAMP/htdocs/newdata/function.php on line 48
+[05-Jan-2019 01:14:10 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 01:14:10 Asia/Tokyo] デバック:ログインページです
+[05-Jan-2019 01:14:10 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 01:14:10 Asia/Tokyo] デバック:>>>>>>>>>>>>>>>>>>>>>>>>画面表示開始
+[05-Jan-2019 01:14:10 Asia/Tokyo] デバック:セッションID:
+[05-Jan-2019 01:14:10 Asia/Tokyo] デバック:セッション変数の中身:Array
+(
+)
+
+[05-Jan-2019 01:14:10 Asia/Tokyo] デバック:現在日時タイムスタンプ1546618450
+[05-Jan-2019 01:14:10 Asia/Tokyo] デバック:バリデーションOK
+[05-Jan-2019 01:14:10 Asia/Tokyo] デバック:パスワードがマッチしました
+[05-Jan-2019 01:14:10 Asia/Tokyo] デバック:ログイン保持にチェックなし
+[05-Jan-2019 01:14:10 Asia/Tokyo] デバック:セッション変数の中身:Array
+(
+    [login_date] => 1546618450
+    [login_limit] => 3600
+    [user_id] => 4
+)
+
+[05-Jan-2019 01:14:10 Asia/Tokyo] デバック:ホーム画面へ遷移します
+[05-Jan-2019 01:14:10 Asia/Tokyo] デバック:画面遷移終了>>>>>>>>>>>>>>>>>>>>>
+[05-Jan-2019 01:14:10 Asia/Tokyo] PHP Warning:  Use of undefined constant common - assumed 'common' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/newdata/login.php on line 142
+[05-Jan-2019 01:14:10 Asia/Tokyo] PHP Warning:  Use of undefined constant common - assumed 'common' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/newdata/login.php on line 143
+[05-Jan-2019 01:15:56 Asia/Tokyo] PHP Warning:  ini_set() expects exactly 2 parameters, 1 given in /Applications/MAMP/htdocs/newdata/function.php on line 44
+[05-Jan-2019 01:15:56 Asia/Tokyo] PHP Warning:  session_start(): open(var/tmp//sess_kuppnmdn8qu3ftfao2hpmrcvui, O_RDWR) failed: No such file or directory (2) in /Applications/MAMP/htdocs/newdata/function.php on line 46
+[05-Jan-2019 01:15:56 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var/tmp/) in /Applications/MAMP/htdocs/newdata/function.php on line 46
+[05-Jan-2019 01:15:56 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /Applications/MAMP/htdocs/newdata/function.php on line 48
+[05-Jan-2019 01:15:56 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 01:15:56 Asia/Tokyo] デバック:ログインページです
+[05-Jan-2019 01:15:56 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 01:15:56 Asia/Tokyo] デバック:>>>>>>>>>>>>>>>>>>>>>>>>画面表示開始
+[05-Jan-2019 01:15:56 Asia/Tokyo] デバック:セッションID:
+[05-Jan-2019 01:15:56 Asia/Tokyo] デバック:セッション変数の中身:Array
+(
+)
+
+[05-Jan-2019 01:15:56 Asia/Tokyo] デバック:現在日時タイムスタンプ1546618556
+[05-Jan-2019 01:15:56 Asia/Tokyo] デバック:画面遷移終了>>>>>>>>>>>>>>>>>>>>>
+[05-Jan-2019 01:15:56 Asia/Tokyo] PHP Warning:  Use of undefined constant common - assumed 'common' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/newdata/login.php on line 141
+[05-Jan-2019 01:15:56 Asia/Tokyo] PHP Warning:  Use of undefined constant common - assumed 'common' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/newdata/login.php on line 142
+[05-Jan-2019 14:35:49 Asia/Tokyo] PHP Warning:  ini_set() expects exactly 2 parameters, 1 given in /Applications/MAMP/htdocs/newdata/function.php on line 46
+[05-Jan-2019 14:35:49 Asia/Tokyo] PHP Warning:  session_start(): open(var/tmp//sess_kuppnmdn8qu3ftfao2hpmrcvui, O_RDWR) failed: No such file or directory (2) in /Applications/MAMP/htdocs/newdata/function.php on line 48
+[05-Jan-2019 14:35:49 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var/tmp/) in /Applications/MAMP/htdocs/newdata/function.php on line 48
+[05-Jan-2019 14:35:49 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /Applications/MAMP/htdocs/newdata/function.php on line 50
+[05-Jan-2019 14:35:49 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 14:35:49 Asia/Tokyo] デバック:ログインページです
+[05-Jan-2019 14:35:49 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 14:35:49 Asia/Tokyo] デバック:>>>>>>>>>>>>>>>>>>>>>>>>画面表示開始
+[05-Jan-2019 14:35:49 Asia/Tokyo] デバック:セッションID:
+[05-Jan-2019 14:35:49 Asia/Tokyo] デバック:セッション変数の中身:Array
+(
+)
+
+[05-Jan-2019 14:35:49 Asia/Tokyo] デバック:現在日時タイムスタンプ1546666549
+[05-Jan-2019 14:35:49 Asia/Tokyo] デバック:バリデーションOK
+[05-Jan-2019 14:35:49 Asia/Tokyo] デバック:パスワードがマッチしました
+[05-Jan-2019 14:35:49 Asia/Tokyo] デバック:ログイン保持にチェックなし
+[05-Jan-2019 14:35:49 Asia/Tokyo] デバック:セッション変数の中身:Array
+(
+    [login_date] => 1546666549
+    [login_limit] => 3600
+    [user_id] => 4
+)
+
+[05-Jan-2019 14:35:49 Asia/Tokyo] デバック:ホーム画面へ遷移します
+[05-Jan-2019 14:35:49 Asia/Tokyo] デバック:画面遷移終了>>>>>>>>>>>>>>>>>>>>>
+[05-Jan-2019 14:35:49 Asia/Tokyo] PHP Warning:  Use of undefined constant common - assumed 'common' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/newdata/login.php on line 141
+[05-Jan-2019 14:35:49 Asia/Tokyo] PHP Warning:  Use of undefined constant common - assumed 'common' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/newdata/login.php on line 142
+[05-Jan-2019 14:38:03 Asia/Tokyo] PHP Warning:  ini_set() expects exactly 2 parameters, 1 given in /Applications/MAMP/htdocs/newdata/function.php on line 46
+[05-Jan-2019 14:38:03 Asia/Tokyo] PHP Warning:  session_start(): open(var/tmp//sess_kuppnmdn8qu3ftfao2hpmrcvui, O_RDWR) failed: No such file or directory (2) in /Applications/MAMP/htdocs/newdata/function.php on line 48
+[05-Jan-2019 14:38:03 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var/tmp/) in /Applications/MAMP/htdocs/newdata/function.php on line 48
+[05-Jan-2019 14:38:03 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /Applications/MAMP/htdocs/newdata/function.php on line 50
+[05-Jan-2019 14:38:03 Asia/Tokyo] PHP Warning:  Use of undefined constant common - assumed 'common' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/newdata/login.php on line 141
+[05-Jan-2019 14:38:03 Asia/Tokyo] PHP Warning:  Use of undefined constant common - assumed 'common' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/newdata/login.php on line 142
+[05-Jan-2019 14:38:12 Asia/Tokyo] PHP Warning:  ini_set() expects exactly 2 parameters, 1 given in /Applications/MAMP/htdocs/newdata/function.php on line 46
+[05-Jan-2019 14:38:12 Asia/Tokyo] PHP Warning:  session_start(): open(var/tmp//sess_kuppnmdn8qu3ftfao2hpmrcvui, O_RDWR) failed: No such file or directory (2) in /Applications/MAMP/htdocs/newdata/function.php on line 48
+[05-Jan-2019 14:38:12 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var/tmp/) in /Applications/MAMP/htdocs/newdata/function.php on line 48
+[05-Jan-2019 14:38:12 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /Applications/MAMP/htdocs/newdata/function.php on line 50
+[05-Jan-2019 14:38:12 Asia/Tokyo] PHP Warning:  Use of undefined constant common - assumed 'common' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/newdata/login.php on line 141
+[05-Jan-2019 14:38:12 Asia/Tokyo] PHP Warning:  Use of undefined constant common - assumed 'common' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/newdata/login.php on line 142
+[05-Jan-2019 15:20:18 Asia/Tokyo] PHP Warning:  ini_set() expects exactly 2 parameters, 1 given in /Applications/MAMP/htdocs/newdata/function.php on line 46
+[05-Jan-2019 15:20:18 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 15:20:18 Asia/Tokyo] デバック:ログインページです
+[05-Jan-2019 15:20:18 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 15:20:18 Asia/Tokyo] デバック:>>>>>>>>>>>>>>>>>>>>>>>>画面表示開始
+[05-Jan-2019 15:20:18 Asia/Tokyo] デバック:セッションID:f6gv8rd7ok95hcu82nhrssjul6
+[05-Jan-2019 15:20:18 Asia/Tokyo] デバック:セッション変数の中身:Array
+(
+    [login_date] => 1543939703
+    [login_limit] => 2592000
+    [user_id] => 23
+)
+
+[05-Jan-2019 15:20:18 Asia/Tokyo] デバック:現在日時タイムスタンプ1546669218
+[05-Jan-2019 15:20:18 Asia/Tokyo] デバック:ログイン期限日時タイムスタンプ:1546531703
+[05-Jan-2019 15:20:18 Asia/Tokyo] デバック:画面遷移終了>>>>>>>>>>>>>>>>>>>>>
+[05-Jan-2019 15:20:18 Asia/Tokyo] PHP Warning:  Use of undefined constant common - assumed 'common' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/newdata/login.php on line 141
+[05-Jan-2019 15:20:18 Asia/Tokyo] PHP Warning:  Use of undefined constant common - assumed 'common' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/newdata/login.php on line 142
+[05-Jan-2019 15:20:18 Asia/Tokyo] PHP Warning:  ini_set() expects exactly 2 parameters, 1 given in /Applications/MAMP/htdocs/newdata/function.php on line 46
+[05-Jan-2019 15:20:18 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 15:20:18 Asia/Tokyo] デバック:ログインページです
+[05-Jan-2019 15:20:18 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 15:20:18 Asia/Tokyo] デバック:>>>>>>>>>>>>>>>>>>>>>>>>画面表示開始
+[05-Jan-2019 15:20:18 Asia/Tokyo] デバック:セッションID:vn10v0nrkodliikvcik676mob5
+[05-Jan-2019 15:20:18 Asia/Tokyo] デバック:セッション変数の中身:Array
+(
+    [login_date] => 1543939703
+    [login_limit] => 2592000
+    [user_id] => 23
+)
+
+[05-Jan-2019 15:20:18 Asia/Tokyo] デバック:現在日時タイムスタンプ1546669218
+[05-Jan-2019 15:20:18 Asia/Tokyo] デバック:ログイン期限日時タイムスタンプ:1546531703
+[05-Jan-2019 15:20:18 Asia/Tokyo] デバック:画面遷移終了>>>>>>>>>>>>>>>>>>>>>
+[05-Jan-2019 15:20:18 Asia/Tokyo] PHP Warning:  Use of undefined constant common - assumed 'common' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/newdata/login.php on line 141
+[05-Jan-2019 15:20:18 Asia/Tokyo] PHP Warning:  Use of undefined constant common - assumed 'common' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/newdata/login.php on line 142
+[05-Jan-2019 15:23:32 Asia/Tokyo] PHP Warning:  ini_set() expects exactly 2 parameters, 1 given in /Applications/MAMP/htdocs/newdata/function.php on line 46
+[05-Jan-2019 15:23:32 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 15:23:32 Asia/Tokyo] デバック:ログインページです
+[05-Jan-2019 15:23:32 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 15:23:32 Asia/Tokyo] デバック:>>>>>>>>>>>>>>>>>>>>>>>>画面表示開始
+[05-Jan-2019 15:23:32 Asia/Tokyo] デバック:セッションID:rboe7cpvqf71qj6bpl25344bon
+[05-Jan-2019 15:23:32 Asia/Tokyo] デバック:セッション変数の中身:Array
+(
+    [login_date] => 1543939703
+    [login_limit] => 2592000
+    [user_id] => 23
+)
+
+[05-Jan-2019 15:23:32 Asia/Tokyo] デバック:現在日時タイムスタンプ1546669412
+[05-Jan-2019 15:23:32 Asia/Tokyo] デバック:ログイン期限日時タイムスタンプ:1546531703
+[05-Jan-2019 15:23:32 Asia/Tokyo] デバック:画面遷移終了>>>>>>>>>>>>>>>>>>>>>
+[05-Jan-2019 15:23:32 Asia/Tokyo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function debug(), 0 passed in /Applications/MAMP/htdocs/newdata/login.php on line 76 and exactly 1 expected in /Applications/MAMP/htdocs/newdata/function.php:18
+Stack trace:
+#0 /Applications/MAMP/htdocs/newdata/login.php(76): debug()
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/newdata/function.php on line 18
+[05-Jan-2019 15:24:00 Asia/Tokyo] PHP Warning:  ini_set() expects exactly 2 parameters, 1 given in /Applications/MAMP/htdocs/newdata/function.php on line 46
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:ログインページです
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:>>>>>>>>>>>>>>>>>>>>>>>>画面表示開始
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:セッションID:5crb7sa3bsces6r0buom8hd2bf
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:セッション変数の中身:Array
+(
+    [login_date] => 1543939703
+    [login_limit] => 2592000
+    [user_id] => 23
+)
+
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:現在日時タイムスタンプ1546669440
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:ログイン期限日時タイムスタンプ:1546531703
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:画面遷移終了>>>>>>>>>>>>>>>>>>>>>
+[05-Jan-2019 15:24:00 Asia/Tokyo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function debug(), 0 passed in /Applications/MAMP/htdocs/newdata/login.php on line 76 and exactly 1 expected in /Applications/MAMP/htdocs/newdata/function.php:18
+Stack trace:
+#0 /Applications/MAMP/htdocs/newdata/login.php(76): debug()
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/newdata/function.php on line 18
+[05-Jan-2019 15:24:00 Asia/Tokyo] PHP Warning:  ini_set() expects exactly 2 parameters, 1 given in /Applications/MAMP/htdocs/newdata/function.php on line 46
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:ログインページです
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:>>>>>>>>>>>>>>>>>>>>>>>>画面表示開始
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:セッションID:ob3pifv76b83asidno6bs14a4n
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:セッション変数の中身:Array
+(
+    [login_date] => 1543939703
+    [login_limit] => 2592000
+    [user_id] => 23
+)
+
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:現在日時タイムスタンプ1546669440
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:ログイン期限日時タイムスタンプ:1546531703
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:画面遷移終了>>>>>>>>>>>>>>>>>>>>>
+[05-Jan-2019 15:24:00 Asia/Tokyo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function debug(), 0 passed in /Applications/MAMP/htdocs/newdata/login.php on line 76 and exactly 1 expected in /Applications/MAMP/htdocs/newdata/function.php:18
+Stack trace:
+#0 /Applications/MAMP/htdocs/newdata/login.php(76): debug()
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/newdata/function.php on line 18
+[05-Jan-2019 15:24:00 Asia/Tokyo] PHP Warning:  ini_set() expects exactly 2 parameters, 1 given in /Applications/MAMP/htdocs/newdata/function.php on line 46
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:ログインページです
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:>>>>>>>>>>>>>>>>>>>>>>>>画面表示開始
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:セッションID:i8efgmebjhqk8io460e85gk61i
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:セッション変数の中身:Array
+(
+    [login_date] => 1543939703
+    [login_limit] => 2592000
+    [user_id] => 23
+)
+
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:現在日時タイムスタンプ1546669440
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:ログイン期限日時タイムスタンプ:1546531703
+[05-Jan-2019 15:24:00 Asia/Tokyo] デバック:画面遷移終了>>>>>>>>>>>>>>>>>>>>>
+[05-Jan-2019 15:24:00 Asia/Tokyo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function debug(), 0 passed in /Applications/MAMP/htdocs/newdata/login.php on line 76 and exactly 1 expected in /Applications/MAMP/htdocs/newdata/function.php:18
+Stack trace:
+#0 /Applications/MAMP/htdocs/newdata/login.php(76): debug()
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/newdata/function.php on line 18
+[05-Jan-2019 15:24:01 Asia/Tokyo] PHP Warning:  ini_set() expects exactly 2 parameters, 1 given in /Applications/MAMP/htdocs/newdata/function.php on line 46
+[05-Jan-2019 15:24:01 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 15:24:01 Asia/Tokyo] デバック:ログインページです
+[05-Jan-2019 15:24:01 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 15:24:01 Asia/Tokyo] デバック:>>>>>>>>>>>>>>>>>>>>>>>>画面表示開始
+[05-Jan-2019 15:24:01 Asia/Tokyo] デバック:セッションID:72sosp1ucrqrbr7cbjiej437um
+[05-Jan-2019 15:24:01 Asia/Tokyo] デバック:セッション変数の中身:Array
+(
+    [login_date] => 1543939703
+    [login_limit] => 2592000
+    [user_id] => 23
+)
+
+[05-Jan-2019 15:24:01 Asia/Tokyo] デバック:現在日時タイムスタンプ1546669441
+[05-Jan-2019 15:24:01 Asia/Tokyo] デバック:ログイン期限日時タイムスタンプ:1546531703
+[05-Jan-2019 15:24:01 Asia/Tokyo] デバック:画面遷移終了>>>>>>>>>>>>>>>>>>>>>
+[05-Jan-2019 15:24:01 Asia/Tokyo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function debug(), 0 passed in /Applications/MAMP/htdocs/newdata/login.php on line 76 and exactly 1 expected in /Applications/MAMP/htdocs/newdata/function.php:18
+Stack trace:
+#0 /Applications/MAMP/htdocs/newdata/login.php(76): debug()
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/newdata/function.php on line 18
+[05-Jan-2019 16:00:56 Asia/Tokyo] PHP Warning:  ini_set() expects exactly 2 parameters, 1 given in /Applications/MAMP/htdocs/newdata/function.php on line 46
+[05-Jan-2019 16:00:56 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 16:00:56 Asia/Tokyo] デバック:ログインページです
+[05-Jan-2019 16:00:56 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 16:00:56 Asia/Tokyo] デバック:>>>>>>>>>>>>>>>>>>>>>>>>画面表示開始
+[05-Jan-2019 16:00:56 Asia/Tokyo] デバック:セッションID:e2qsh0g6klaictjng5u1gb2das
+[05-Jan-2019 16:00:56 Asia/Tokyo] デバック:セッション変数の中身:Array
+(
+    [login_date] => 1543939703
+    [login_limit] => 2592000
+    [user_id] => 23
+)
+
+[05-Jan-2019 16:00:56 Asia/Tokyo] デバック:現在日時タイムスタンプ1546671656
+[05-Jan-2019 16:00:56 Asia/Tokyo] デバック:ログイン期限日時タイムスタンプ:1546531703
+[05-Jan-2019 16:00:56 Asia/Tokyo] デバック:画面遷移終了>>>>>>>>>>>>>>>>>>>>>
+[05-Jan-2019 16:00:56 Asia/Tokyo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function debug(), 0 passed in /Applications/MAMP/htdocs/newdata/login.php on line 76 and exactly 1 expected in /Applications/MAMP/htdocs/newdata/function.php:18
+Stack trace:
+#0 /Applications/MAMP/htdocs/newdata/login.php(76): debug()
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/newdata/function.php on line 18
+[05-Jan-2019 16:01:14 Asia/Tokyo] PHP Warning:  ini_set() expects exactly 2 parameters, 1 given in /Applications/MAMP/htdocs/newdata/function.php on line 46
+[05-Jan-2019 16:01:14 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 16:01:14 Asia/Tokyo] デバック:ログインページです
+[05-Jan-2019 16:01:14 Asia/Tokyo] デバック:==========================
+[05-Jan-2019 16:01:14 Asia/Tokyo] デバック:>>>>>>>>>>>>>>>>>>>>>>>>画面表示開始
+[05-Jan-2019 16:01:14 Asia/Tokyo] デバック:セッションID:n53ucna19olq5g380kvhq7nepl
+[05-Jan-2019 16:01:14 Asia/Tokyo] デバック:セッション変数の中身:Array
+(
+    [login_date] => 1543939703
+    [login_limit] => 2592000
+    [user_id] => 23
+)
+
+[05-Jan-2019 16:01:14 Asia/Tokyo] デバック:現在日時タイムスタンプ1546671674
+[05-Jan-2019 16:01:14 Asia/Tokyo] デバック:ログイン期限日時タイムスタンプ:1546531703
+[05-Jan-2019 16:01:14 Asia/Tokyo] デバック:画面遷移終了>>>>>>>>>>>>>>>>>>>>>
+[05-Jan-2019 16:01:14 Asia/Tokyo] PHP Warning:  Use of undefined constant common - assumed 'common' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/newdata/login.php on line 143
+[05-Jan-2019 16:01:14 Asia/Tokyo] PHP Warning:  Use of undefined constant common - assumed 'common' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/newdata/login.php on line 144

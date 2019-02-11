@@ -1,0 +1,30 @@
+//#footer
+.footer{
+  background: $background-footer;
+  height: 90px;
+  width: 100%;
+  padding-top: 10px;
+  margin-top: 10px;
+position: fixed;
+  bottom: 0;
+  color: white;
+text-align: center;
+  line-height: 70px;
+
+  &--title{
+   color:$font-color-fooer;
+   font-size:$font-size_l;
+   text-align: center;
+ }
+}
+.footer-top {
+  background: $background-footer;
+  height: 90px;
+  width: 100%;
+  padding-top: 10px;
+  color: white;
+  text-align: center;
+  line-height: 70px;
+  margin-bottom: -1px;
+
+}

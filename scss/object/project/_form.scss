@@ -1,0 +1,7 @@
+//form
+.c-form-container{
+  width:30%;
+  @include media-breakpoint-down(xs) {
+    width:60%;
+  }
+}

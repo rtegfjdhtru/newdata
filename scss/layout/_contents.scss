@@ -1,0 +1,12 @@
+//#contents
+.c-main{
+  display: flex;
+  background: $background-dafault;
+  @include media-breakpoint-down(xs) {
+    display: block;
+  }
+  &--card{
+    display: flex;
+    flex-direction: column;
+  }
+}

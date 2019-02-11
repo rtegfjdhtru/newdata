@@ -1,0 +1,25 @@
+.header-top{
+  background: #efd7a3;
+  height: 68px;
+  width: 100%;
+overflow: hidden;
+
+  &--container{
+  }
+  &__title{
+    float: left;
+    position: relative;
+    top: 10px;
+    @include media-breakpoint-down(xs) {
+font-size: $font-size_l;
+      top:25px;
+    }
+  }
+  &__link{
+    color:$font-color;
+  }
+&__link:hover{
+text-decoration: none;
+color: $font-color;
+  }
+}
